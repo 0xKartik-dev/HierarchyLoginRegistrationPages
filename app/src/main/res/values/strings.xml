@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HierarchyLoginRegistrationPages</string>
+    <string name="login">login</string>
+    <string name="login_with_ksipl110">Login with KSIPL110</string>
+</resources>
